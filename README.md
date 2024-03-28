@@ -1,4 +1,3 @@
-# ea
-Task with Python and Pandas for work application at UAB Energy Advice
-
-Go to the jupyter notebook and open with Colab (there should be a button in the notebook for this).
+## meteo_rest_api.ipynb
+Task with Python and Pandas for job application at UAB Energy Advice.
+View file meteo_rest_api.ipynb. At the top there should be a Google Colab button, press it, and run all code in Google Colab environment.
